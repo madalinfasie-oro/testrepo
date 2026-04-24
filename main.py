@@ -1,5 +1,5 @@
 def test():
-    print("Hello world from main.py!")
+    print("Hello world from main.py! This is a test.")
 
 
 if __name__ == "__main__":
